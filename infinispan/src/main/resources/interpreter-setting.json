@@ -1,0 +1,18 @@
+[
+  {
+    "group": "infinispan",
+    "name": "infinispan",
+    "className": "org.apache.zeppelin.infinispan.InfinispanInterpreter",
+    "properties": {
+      "infinispan.hosts": {
+        "envName": "INFINISPAN_HOSTS",
+        "propertyName": "infinispan.hosts",
+        "defaultValue": "localhost:11222",
+        "description": "A comma separated value containing host:port of the infinispan cluster"
+      }
+    },
+    "editor": {
+      "editOnDblClick": false
+    }
+  }
+]

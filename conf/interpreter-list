@@ -27,6 +27,7 @@ file            org.apache.zeppelin:zeppelin-file:0.6.1                 HDFS fil
 flink           org.apache.zeppelin:zeppelin-flink_2.11:0.6.1           Flink interpreter built with Scala 2.11
 hbase           org.apache.zeppelin:zeppelin-hbase:0.6.1                Hbase interpreter
 ignite          org.apache.zeppelin:zeppelin-ignite_2.11:0.6.1          Ignite interpreter built with Scala 2.11
+infinispan      org.apache.zeppelin:zepellin-infinispan:0.7.0-SNAPSHOT  Infinispan interpreter
 jdbc            org.apache.zeppelin:zeppelin-jdbc:0.6.1                 Jdbc interpreter
 kylin           org.apache.zeppelin:zeppelin-kylin:0.6.1                Kylin interpreter
 lens            org.apache.zeppelin:zeppelin-lens:0.6.1                 Lens interpreter

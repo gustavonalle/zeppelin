@@ -175,6 +175,11 @@ You can also find the below community managed interpreter list in `conf/interpre
     <td>Ignite interpreter built with Scala 2.11</td>
   </tr>
   <tr>
+     <td>infinispan</td>
+     <td>org.apache.zeppelin:zeppelin-infinispan:0.7.0-SNAPSHOT</td>
+     <td>Infinispan interpreter</td>
+  </tr>
+  <tr>
     <td>jdbc</td>
     <td>org.apache.zeppelin:zeppelin-jdbc:0.6.1</td>
     <td>Jdbc interpreter</td>
